@@ -71,7 +71,7 @@ export default function Sobre() {
         Mesmo vivendo em mundos de duas línguas diferentes, o mundo da Bíblia e
         o mundo moderno, sempre entendi que se trata do mesmo mundo. Mas essas
         pessoas não enxergavam a situação assim. Por isso, foi necessário que eu
-        me tornasse um "tradutor" (ainda que eu não fosse chamado assim naquela
+        me tornasse um &ldquo;tradutor&rdquo; (ainda que eu não fosse chamado assim naquela
         época), permanecendo diariamente na fronteira entre dois mundos,
         tornando a linguagem da Bíblia que Deus usa para nos criar e salvar,
         curar e abençoar, julgar e governar na linguagem moderna que usamos para
@@ -104,7 +104,7 @@ export default function Sobre() {
         entender. Por isso, em algum momento durante o caminho, cedo ou tarde,
         vai ser importante tomar uma Bíblia padrão de estudos, para facilitar
         estudos posteriores. Enquanto isso, leia para viver; ore enquanto lê:
-        "Deus, que seja comigo assim como dizes".
+        &ldquo;Deus, que seja comigo assim como dizes&rdquo;.
       </p>
       <img
         src="/images/assinatura.png"
